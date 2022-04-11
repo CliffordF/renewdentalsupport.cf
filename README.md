@@ -1,2 +1,0 @@
-# renewdentalsupport
-GitHub Pages
